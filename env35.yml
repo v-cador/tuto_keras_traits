@@ -1,0 +1,47 @@
+name: env35
+channels:
+- menpo
+- defaults
+dependencies:
+- bzip2=1.0.6
+- curl=7.52.1
+- cycler=0.10.0
+- freetype=2.5.5
+- h5py=2.7.0
+- jpeg=9b
+- libpng=1.6.27
+- libtiff=4.0.6
+- matplotlib=2.0.2
+- mkl=2017.0.3
+- numpy=1.13.1
+- olefile=0.44
+- pandas=0.20.2
+- pillow=4.2.1
+- pip=9.0.1
+- pycurl=7.43.0
+- pyparsing=2.1.4
+- pyqt=5.6.0
+- python=3.5.3
+- python-dateutil=2.6.0
+- pytz=2017.2
+- qt=5.6.2
+- scikit-learn=0.18.2
+- scipy=0.19.1
+- setuptools=27.2.0
+- sip=4.18
+- six=1.10.0
+- tk=8.5.18
+- wheel=0.29.0
+- zlib=1.2.8
+- opencv3=3.1.0
+- pip:
+  - backports.weakref==1.0rc1
+  - bleach==1.5.0
+  - html5lib==0.9999999
+  - keras==2.0.6
+  - markdown==2.6.8
+  - protobuf==3.3.0
+  - pyyaml==3.12
+  - tensorflow==1.2.1
+  - theano==0.9.0
+  - werkzeug==0.12.2
